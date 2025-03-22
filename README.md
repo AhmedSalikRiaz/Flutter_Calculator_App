@@ -53,8 +53,8 @@ The app has been tested on Android devices. Although, it should work on iOS and 
 - Tap **𝛴 button** to toggle between **portrait and landscape mode**.
 - The app is **fully responsive** to screen sizes.
 
-## 🔨 To-Do (Upcoming Features)
+## 🔨 To-Do (Features that can be added)
 
-- 🛠️ Implement calculation logic
+- 🛠️ Implement the complete calculation logic
 - 🎨 Improve animations
-- 🖥️ Optimize UI for tablets
+- 🖥️ Optimize the UI to cater for more types of devices
